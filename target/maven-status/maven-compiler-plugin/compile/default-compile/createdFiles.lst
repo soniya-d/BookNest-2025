@@ -1,0 +1,16 @@
+io/sdasadia/booknest/userbooks/UserBooksController.class
+io/sdasadia/booknest/userbooks/UserBooksPrimaryKey.class
+io/sdasadia/booknest/search/SearchResult.class
+io/sdasadia/booknest/BookNestApp.class
+io/sdasadia/booknest/home/HomeController.class
+io/sdasadia/booknest/book/BookRepository.class
+io/sdasadia/booknest/book/BookController.class
+io/sdasadia/booknest/connection/DataStaxAstraProperties.class
+io/sdasadia/booknest/SecurityAdapter.class
+io/sdasadia/booknest/search/SearchResultBook.class
+io/sdasadia/booknest/userbooks/UserBooksRepository.class
+io/sdasadia/booknest/search/SearchController.class
+io/sdasadia/booknest/userbooks/UserBooks.class
+io/sdasadia/booknest/user/BooksByUser.class
+io/sdasadia/booknest/book/Book.class
+io/sdasadia/booknest/user/BooksByUserRepository.class
