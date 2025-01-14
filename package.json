@@ -1,0 +1,22 @@
+{
+  "name": "booknest-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "mvn clean package", 
+    "start": "java -jar target/github-auth-template-0.0.1-SNAPSHOT.jar.original",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniya-d/BookNest-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniya-d/BookNest-2025/issues"
+  },
+  "homepage": "https://github.com/soniya-d/BookNest-2025#readme",
+  "description": "A Java application for BookNest-2025"
+}
