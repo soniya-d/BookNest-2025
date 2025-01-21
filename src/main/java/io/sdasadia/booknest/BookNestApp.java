@@ -1,3 +1,6 @@
+// Followed a tutorial by Java Brains on Youtube.
+// Link: https://www.youtube.com/watch?v=LxVGFBRpEFM&list=PLKY246dKRk4U
+
 package io.sdasadia.booknest;
 
 import java.nio.file.Path;
